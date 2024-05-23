@@ -21,13 +21,13 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/panteon-fitness-center.git
+    git clone https://github.com/yourusername/panteon-production-.git
     ```
 
 2. Перейдите в директорию проекта:
 
     ```bash
-    cd panteon-fitness-center
+    cd panteon-production-
     ```
 
 3. Запустите локальный сервер (например, используя Live Server для VSCode) или настройте серверную часть для обработки форм.
