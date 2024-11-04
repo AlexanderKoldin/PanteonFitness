@@ -1,6 +1,10 @@
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Gulp](https://img.shields.io/badge/Gulp-4.0.2-red)
+![PHP](https://img.shields.io/badge/PHP-7.4-blue)
+![SCSS](https://img.shields.io/badge/SCSS-1.0.0-pink)
+
 
 [Пантеон - Сайт Фитнес Центра](https://alexanderkoldin.github.io/PanteonFitness/)
 
