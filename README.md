@@ -1,3 +1,7 @@
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 [Пантеон - Сайт Фитнес Центра](https://alexanderkoldin.github.io/PanteonFitness/)
 
 Добро пожаловать в репозиторий сайта фитнес центра "Пантеон"! Этот проект создан для предоставления удобного и функционального веб-приложения, которое помогает посетителям фитнес-центра легко находить необходимую информацию.
