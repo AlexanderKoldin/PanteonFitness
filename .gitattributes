@@ -1,0 +1,3 @@
+phpmailer/** linguist-vendored
+JS/*.min.js linguist-vendored
+css/*.min.css linguist-vendored
